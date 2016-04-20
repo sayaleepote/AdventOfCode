@@ -1,0 +1,6 @@
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program4\bin\Debug\Program4.exe.config
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program4\bin\Debug\Program4.exe
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program4\bin\Debug\Program4.pdb
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program4\obj\Debug\Program4.exe
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program4\obj\Debug\Program4.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program7\bin\Debug\Program7.exe.config
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program7\bin\Debug\Program7.exe
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program7\bin\Debug\Program7.pdb
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program7\obj\Debug\Program7.csprojResolveAssemblyReference.cache
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program7\obj\Debug\Program7.exe
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program7\obj\Debug\Program7.pdb

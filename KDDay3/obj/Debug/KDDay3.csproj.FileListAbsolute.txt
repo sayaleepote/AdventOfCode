@@ -1,0 +1,6 @@
+C:\Users\Pote_s\documents\visual studio 2013\Projects\AdventOfCode\KDDay3\bin\Debug\KDDay3.exe.config
+C:\Users\Pote_s\documents\visual studio 2013\Projects\AdventOfCode\KDDay3\bin\Debug\KDDay3.exe
+C:\Users\Pote_s\documents\visual studio 2013\Projects\AdventOfCode\KDDay3\bin\Debug\KDDay3.pdb
+C:\Users\Pote_s\documents\visual studio 2013\Projects\AdventOfCode\KDDay3\obj\Debug\KDDay3.csprojResolveAssemblyReference.cache
+C:\Users\Pote_s\documents\visual studio 2013\Projects\AdventOfCode\KDDay3\obj\Debug\KDDay3.exe
+C:\Users\Pote_s\documents\visual studio 2013\Projects\AdventOfCode\KDDay3\obj\Debug\KDDay3.pdb

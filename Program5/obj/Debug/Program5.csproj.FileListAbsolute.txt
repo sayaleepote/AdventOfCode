@@ -1,0 +1,5 @@
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program5\bin\Debug\Program5.exe.config
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program5\bin\Debug\Program5.exe
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program5\bin\Debug\Program5.pdb
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program5\obj\Debug\Program5.exe
+C:\Users\Pote_s\Documents\Visual Studio 2013\Projects\AdventOfCode\Program5\obj\Debug\Program5.pdb
